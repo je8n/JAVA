@@ -5,7 +5,7 @@
   uzun uğraşlar ile süre kaybederek öğrendiğim bilgileri,
   daha kolay bir arayış ile bulunması ve kullanılabilmesi için paylaşıyorum.
 
-  Kodlar, Proje bölümündedir.
+* Kodlar, Proje bölümündedir.
 
 ## My Java Notes
 
