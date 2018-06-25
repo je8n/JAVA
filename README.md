@@ -1,8 +1,10 @@
 # JAVA
 ## JAVA Notlarım
 
-+ Tüm kodlar bana aittir.
-+ Tüm kodlar daha sağlıklı, uzun uğraşlar ile süre kaybederek öğrendiğim bilgileri, daha kolay bir arayış ile bulunması ve kullanıalbilmesi için paylaşıyorum.
+1. Tüm kodlar bana aittir.
+2. Tüm kodlar daha sağlıklı,,
+...uzun uğraşlar ile süre kaybederek öğrendiğim bilgileri,
+...daha kolay bir arayış ile bulunması ve kullanıalbilmesi için paylaşıyorum.
 
 + Kolar Proje bölümündedir.
 
