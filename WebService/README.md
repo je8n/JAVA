@@ -1,3 +1,6 @@
-WebSerive is connect Oracle Database with RestEasy and Apache Tomcat
+WebService is connect Oracle Database with RestEasy and Apache Tomcat
 
-I Used Resteasy 3.51 and Apache Tomcat 9
+## I Used; ##
++ Netbeans 8.2
++ Resteasy 3.51
++ Apache Tomcat 9
