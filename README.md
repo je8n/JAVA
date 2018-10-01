@@ -12,4 +12,3 @@
   and i understand long time and written.
   Anyone share code for very easy use, and very easy find.
 
-### I bad English :) ###
